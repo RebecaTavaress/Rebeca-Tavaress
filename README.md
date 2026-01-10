@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">👩🏽‍💻 Técnica em Informática <br>📚 Atualmente estou me aprofundando em desenvolvimento web, UX (Experiência do Usuário) e design.<br>🎯 .</p>
+<p align="left">👩🏽‍💻 Técnica em Informática <br>📚 Atualmente estou me aprofundando em desenvolvimento web, UX (Experiência do Usuário) e design.<br>🎯Sempre disposta .</p>
 
 ###
 
