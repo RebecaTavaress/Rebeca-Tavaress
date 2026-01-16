@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Meu nome é Rebeca e estou cursando Engenharia de Computação no IFCE.</p>
+<p align="left">Meu nome é Rebeca e estou cursando Engenharia de Computação.</p>
 
 ###
 
