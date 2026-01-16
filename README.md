@@ -2,15 +2,11 @@
 
 ###
 
-<p align="left">Meu nome é Rebeca e estou cursando Engenharia de Computação.</p>
-
-###
-
 <h2 align="left">🎀| Sobre mim</h2>
 
 ###
 
-<p align="left">👩🏽‍💻 Técnica em Informática <br>📚 Atualmente estou me aprofundando em desenvolvimento web, UX (Experiência do Usuário) e design.<br>🎯Sempre buscando aprender e evoluir.</p>
+<p align="left">💻 Cursando Engenharia de Computação <br>👩🏽‍💻 Técnica em Informática <br>📚 Atualmente estou me aprofundando em desenvolvimento web, UX (Experiência do Usuário) e design.<br>🎯Sempre buscando aprender e evoluir.</p>
 
 ###
 
